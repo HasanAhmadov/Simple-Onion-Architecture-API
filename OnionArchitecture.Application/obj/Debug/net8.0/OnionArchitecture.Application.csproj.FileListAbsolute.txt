@@ -1,0 +1,15 @@
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\bin\Debug\net8.0\OnionArchitecture.Application.deps.json
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\bin\Debug\net8.0\OnionArchitecture.Application.dll
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\bin\Debug\net8.0\OnionArchitecture.Application.pdb
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\bin\Debug\net8.0\OnionArchitecture.Domain.dll
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\bin\Debug\net8.0\OnionArchitecture.Domain.pdb
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.AssemblyInfo.cs
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\obj\Debug\net8.0\OnionArc.8A92E527.Up2Date
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.dll
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\obj\Debug\net8.0\refint\OnionArchitecture.Application.dll
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.pdb
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Application\obj\Debug\net8.0\ref\OnionArchitecture.Application.dll

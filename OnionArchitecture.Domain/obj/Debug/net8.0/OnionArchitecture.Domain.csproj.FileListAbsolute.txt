@@ -1,0 +1,11 @@
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Domain\bin\Debug\net8.0\OnionArchitecture.Domain.deps.json
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Domain\bin\Debug\net8.0\OnionArchitecture.Domain.dll
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Domain\bin\Debug\net8.0\OnionArchitecture.Domain.pdb
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Domain\obj\Debug\net8.0\OnionArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Domain\obj\Debug\net8.0\OnionArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Domain\obj\Debug\net8.0\OnionArchitecture.Domain.AssemblyInfo.cs
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Domain\obj\Debug\net8.0\OnionArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Domain\obj\Debug\net8.0\OnionArchitecture.Domain.dll
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Domain\obj\Debug\net8.0\refint\OnionArchitecture.Domain.dll
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Domain\obj\Debug\net8.0\OnionArchitecture.Domain.pdb
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Domain\obj\Debug\net8.0\ref\OnionArchitecture.Domain.dll

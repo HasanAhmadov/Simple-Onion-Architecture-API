@@ -1,0 +1,17 @@
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\bin\Debug\net8.0\OnionArchitecture.Infrastructure.deps.json
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\bin\Debug\net8.0\OnionArchitecture.Infrastructure.runtimeconfig.json
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\bin\Debug\net8.0\OnionArchitecture.Infrastructure.dll
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\bin\Debug\net8.0\OnionArchitecture.Infrastructure.pdb
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\bin\Debug\net8.0\OnionArchitecture.Domain.dll
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\bin\Debug\net8.0\OnionArchitecture.Domain.pdb
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\obj\Debug\net8.0\OnionArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\obj\Debug\net8.0\OnionArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\obj\Debug\net8.0\OnionArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\obj\Debug\net8.0\OnionArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\obj\Debug\net8.0\OnionArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\obj\Debug\net8.0\OnionArc.5DC639BC.Up2Date
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\obj\Debug\net8.0\OnionArchitecture.Infrastructure.dll
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\obj\Debug\net8.0\refint\OnionArchitecture.Infrastructure.dll
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\obj\Debug\net8.0\OnionArchitecture.Infrastructure.pdb
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\obj\Debug\net8.0\OnionArchitecture.Infrastructure.genruntimeconfig.cache
+C:\Users\hasan.ahmadov\Downloads\OnionArchitectureFullProject\OnionArchitecture.Infrastructure\obj\Debug\net8.0\ref\OnionArchitecture.Infrastructure.dll
