@@ -13,6 +13,7 @@ A practical, example Web API built with ASP.NET Core 8.0, demonstrating the fund
 ## 🏗️ Solution Structure
 
 The solution is organized into four core projects, ensuring dependencies flow inward towards the domain.
+
 OnionArchitecture.sln
 ├── OnionArchitecture.API/
 │ ├── Controllers/
